@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Data Communication Class repository! This repository contains resources and materials for the [Your University/Institution] Data Communication course. Whether you're a student or an instructor, you'll find valuable information and tools to enhance your understanding and teaching of data communication concepts.
+Welcome to the Data Communication Class repository! This repository contains resources and materials for the UIA Data Communication course. 
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ Welcome to the Data Communication Class repository! This repository contains res
 To get started with the materials in this repository, clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/data-communication-class.git
+git clone https://github.com/valiantlynx/datacommunication-class.git
 ```
 
 ### Installation
