@@ -1,12 +1,12 @@
-# Database and Data Modeling Course
+# Data Communication Class
 
 ## Overview
 
-Welcome to the Database and Data Modeling Course repository! This repository houses essential resources and materials for the UIA Database and Data Modeling course.
+Welcome to the Data Communication Class repository! This repository contains resources and materials for the [Your University/Institution] Data Communication course. Whether you're a student or an instructor, you'll find valuable information and tools to enhance your understanding and teaching of data communication concepts.
 
 ## Table of Contents
 
-- [Database and Data Modeling Course](#database-and-data-modeling-course)
+- [Data Communication Class](#data-communication-class)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
@@ -22,10 +22,10 @@ Welcome to the Database and Data Modeling Course repository! This repository hou
 
 ### Cloning the Repository
 
-To begin with the materials in this repository, clone it to your local machine using the following command:
+To get started with the materials in this repository, clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/database-datamodeling-course.git
+git clone https://github.com/your-username/data-communication-class.git
 ```
 
 ### Installation
@@ -36,13 +36,13 @@ git clone https://github.com/your-username/database-datamodeling-course.git
 
 [Provide an overview of the topics covered in the course. Include links to specific folders or files containing lecture notes, assignments, and other relevant materials.]
 
-- Week 1: Introduction to Database Concepts
+- Week 1: Introduction to Data Communication
   - [Lecture Slides](/lectures/week1/slides.pdf)
   - [Assignment 1](/assignments/week1/assignment.pdf)
 
-- Week 2: Relational Database Design
+- Week 2: Network Models and Protocols
   - [Lecture Notes](/lectures/week2/notes.md)
-  - [Lab Exercises](/labs/week2/exercises.sql)
+  - [Lab Exercises](/labs/week2/exercises.py)
 
 [Continue with a similar structure for subsequent weeks.]
 
@@ -50,15 +50,15 @@ git clone https://github.com/your-username/database-datamodeling-course.git
 
 [List any prerequisites that students should be familiar with before taking this course.]
 
-- Basic understanding of data structures and algorithms.
-- Familiarity with at least one programming language (e.g., Python, Java).
+- Basic understanding of computer networks and protocols.
+- Familiarity with programming concepts in [specific language] is recommended.
 
 ## Resources
 
 [List additional resources that can complement the course materials.]
 
-- [SQL Tutorial](https://www.w3schools.com/sql/)
-- [Database Design and Modeling on Microsoft Learn](https://learn.microsoft.com/en-us/sql/relational-databases)
+- [Data Communication and Networking by Behrouz A. Forouzan](https://www.mheducation.com/highered/product/data-communications-networking-forouzan-5th/_/9780073376226.html)
+- [Coursera - Networking and Communications](https://www.coursera.org/specializations/computer-networking)
 
 ## Contributing
 
